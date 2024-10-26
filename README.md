@@ -8,7 +8,7 @@ This project is a Power BI dashboard that displays the Air Quality Index (AQI) d
 **Data Analyzed**
 The data analyzed in this dashboard includes several key air quality components, such as:
 
->--**PM2.5**: Particulate matter smaller than 2.5 microns, which can penetrate deeply into the lungs and affect respiratory and cardiovascular health.
+**PM2.5**: Particulate matter smaller than 2.5 microns, which can penetrate deeply into the lungs and affect respiratory and cardiovascular health.
 **PM10**:Particulate matter smaller than 10 microns, associated with respiratory ailments and reduced air visibility.
 **SO₂:**Sulfur dioxide, a gas that can irritate the respiratory system and contribute to the formation of particulate matter.
 **NO₂:** Nitrogen dioxide, a pollutant that can affect lung function and lead to respiratory symptoms.
